@@ -6,10 +6,7 @@
 [『科学计算』全连接层、均方误差、激活函数实现](https://www.cnblogs.com/hellcat/p/7172950.html)<br>
 
 #### 文件介绍
-`Layer.py`     层 class<br>
-               已实现：全连接层，卷积层，平均池化层<br>
-`Loss.py`      损失函数 class<br>
-               已实现：均方误差损失函数<br>
-`Activate.py`  激活函数 class<br>
-               已实现：sigmoid、tanh、relu<br>
+`Layer.py`     层 class       已实现：全连接层，卷积层，平均池化层<br>
+`Loss.py`      损失函数 class  已实现：均方误差损失函数<br>
+`Activate.py`  激活函数 class  已实现：sigmoid、tanh、relu<br>
 `test.py`      训练测试代码<br>
