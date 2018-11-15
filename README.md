@@ -1,11 +1,15 @@
 # miniDeepFrame
 手动实现mini深度学习框架，主要精力不放在运算优化上，仅体会原理
 
-#### 
-[『TensorFlow』卷积层池化层详解](https://www.cnblogs.com/hellcat/p/7850048.html)
+#### 相关博客
+[『TensorFlow』卷积层、池化层详解](https://www.cnblogs.com/hellcat/p/7850048.html)<br>
+[『科学计算』全连接层、均方误差、激活函数实现](https://www.cnblogs.com/hellcat/p/7172950.html)<br>
 
 #### 文件介绍
 `Layer.py`     层 class<br>
+               已实现：全连接层，卷积层，平均池化层
 `Loss.py`      损失函数 class<br>
+               已实现：均方误差损失函数
 `Activate.py`  激活函数 class<br>
+               已实现：sigmoid、tanh、relu
 `test.py`      训练测试代码<br>
