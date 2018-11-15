@@ -10,3 +10,6 @@
 `Loss.py`      损失函数 class，已实现：均方误差损失函数<br>
 `Activate.py`  激活函数 class，已实现：sigmoid、tanh、relu<br>
 `test.py`      训练测试代码<br>
+
+![](https://img2018.cnblogs.com/blog/1161096/201811/1161096-20181115144204739-1365774869.png)
+![](https://img2018.cnblogs.com/blog/1161096/201811/1161096-20181115144133763-312913842.png)
